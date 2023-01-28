@@ -1,4 +1,20 @@
 .btn-warning{
     color:#B68C5A;
 }
-
+.cls{
+    overflow-x:hidden;
+}
+.card-img-overlay{
+    position:absolute; 
+    top:30%; 
+    /*left:50%;  
+    transform:translate(-30%, -50%); */
+    text-align: center;
+}
+/* .card-img-overlay h1{
+    
+} */
+.card-title{
+    /* font-size: 20px; */
+    /* margin-top: 0; */
+}
